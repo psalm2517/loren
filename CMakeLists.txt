@@ -160,7 +160,7 @@ set(CPACK_PACKAGE_DESCRIPTION_SUMMARY "Instant screenshot capture with shareable
 set(CPACK_PACKAGE_CONTACT "amandoti.win")
 set(CPACK_DEBIAN_PACKAGE_MAINTAINER "amandoti.win")
 set(CPACK_DEBIAN_PACKAGE_SECTION "graphics")
-set(CPACK_DEBIAN_PACKAGE_HOMEPAGE "https://github.com/amandoti-win/loren")
+set(CPACK_DEBIAN_PACKAGE_HOMEPAGE "https://github.com/Psalm2517/loren")
 set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
 # QML modules are loaded at runtime, so the library scan cannot see them.
 set(CPACK_DEBIAN_PACKAGE_DEPENDS "qml6-module-org-kde-kirigami, qml6-module-qtmultimedia, qml6-module-qtqml, qml6-module-qtquick, qml6-module-qtquick-controls, qml6-module-qtquick-layouts, qml6-module-qtquick-shapes, qml6-module-qtquick-templates, qml6-module-qtquick-window, libkirigamiplatform6")

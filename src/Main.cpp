@@ -83,13 +83,13 @@ int main(int argc, char **argv)
                          KAboutLicense::GPL_V3,
                          u"(C) 2026 amandoti.win"_s);
     aboutData.setOtherText(u"Fork of Spectacle 6.3.5"_s);
-    aboutData.setHomepage(u"https://github.com/amandoti-win/loren"_s);
-    aboutData.addAuthor(u"amandoti.win"_s, u"Loren"_s, {}, u"https://github.com/amandoti-win/loren"_s);
+    aboutData.setHomepage(u"https://github.com/Psalm2517/loren"_s);
+    aboutData.addAuthor(u"amandoti.win"_s, u"Loren"_s, {}, u"https://github.com/Psalm2517/loren"_s);
     aboutData.addAuthor(u"Boudhayan Gupta"_s, u"Spectacle"_s, u"bgupta@kde.org"_s);
     aboutData.addAuthor(u"David Redondo"_s, u"Spectacle"_s, u"kde@david-redondo.de"_s);
     aboutData.addAuthor(u"Noah Davis"_s, u"Spectacle"_s, u"noahadvs@gmail.com"_s);
-    aboutData.setCustomAuthorText(u"Report bugs at https://github.com/amandoti-win/loren/issues"_s,
-                                  u"Report bugs at <a href=\"https://github.com/amandoti-win/loren/issues\">github.com/amandoti-win/loren/issues</a>"_s);
+    aboutData.setCustomAuthorText(u"Report bugs at https://github.com/Psalm2517/loren/issues"_s,
+                                  u"Report bugs at <a href=\"https://github.com/Psalm2517/loren/issues\">github.com/Psalm2517/loren/issues</a>"_s);
     aboutData.setTranslator(i18nc("NAME OF TRANSLATORS", "Your names"), i18nc("EMAIL OF TRANSLATORS", "Your emails"));
     aboutData.setOrganizationDomain("amandoti.win");
     aboutData.setDesktopFileName(u"win.amandoti.loren"_s);

@@ -6,11 +6,11 @@
 
 Instant screenshot capture with shareable links on your own domain. Eventually, this should be the privacy-focused version of Lightshot.
 
-[![Download](https://img.shields.io/badge/Download-.deb-7a1a34?style=for-the-badge)](https://github.com/amandoti-win/loren/releases/latest)
+[![Download](https://img.shields.io/badge/Download-.deb-7a1a34?style=for-the-badge)](https://github.com/Psalm2517/loren/releases/latest)
 
-[![Release](https://img.shields.io/github/v/release/amandoti-win/loren?color=7a1a34)](https://github.com/amandoti-win/loren/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/amandoti-win/loren/total?color=7a1a34)](https://github.com/amandoti-win/loren/releases)
-[![License](https://img.shields.io/github/license/amandoti-win/loren?color=7a1a34)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Psalm2517/loren?color=7a1a34)](https://github.com/Psalm2517/loren/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/Psalm2517/loren/total?color=7a1a34)](https://github.com/Psalm2517/loren/releases)
+[![License](https://img.shields.io/github/license/Psalm2517/loren?color=7a1a34)](LICENSE)
 
 </div>
 
@@ -27,7 +27,7 @@ Loren is a fork of [Spectacle](https://invent.kde.org/plasma/spectacle) 6.3.5 fo
 
 ## Install
 
-Download `loren_1.0.0_amd64.deb` from the [latest release](https://github.com/amandoti-win/loren/releases/latest) and install it. It is a ready-made program, so there is nothing to compile, and apt installs everything it needs:
+Download `loren_1.0.0_amd64.deb` from the [latest release](https://github.com/Psalm2517/loren/releases/latest) and install it. It is a ready-made program, so there is nothing to compile, and apt installs everything it needs:
 
     sudo apt install ./loren_1.0.0_amd64.deb
 

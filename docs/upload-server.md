@@ -57,7 +57,7 @@ API as above. You need a Cloudflare account with R2 enabled.
 
 ### One click
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/amandoti-win/loren/tree/main/examples/cloudflare-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Psalm2517/loren/tree/main/examples/cloudflare-worker)
 
 The button copies the Worker into your own GitHub account, creates the R2 bucket and the Worker in your Cloudflare
 account, and asks you for `UPLOAD_TOKEN`. Paste a long random string (`openssl rand -base64 32` makes one) and keep a
